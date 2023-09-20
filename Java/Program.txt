@@ -1,0 +1,14 @@
+import java.util.*;
+ public class SimpleInterest{
+   public static void main(String [] args){
+   double time;
+   float interest;
+   int amount;
+   Scanner sc = new Scanner(System.in);
+   time =  nextDouble();
+   interest = nextFloat();
+   amount = nextInt();
+   System.out.println("The simple interest is "+((time*interest*amount)/100) );
+
+}
+}

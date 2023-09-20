@@ -1,0 +1,7 @@
+num1 = eval(input("Enter the number1 "))
+num2 = eval(input("ENter the sceond number "))
+print("The Sum is ",num1+num2)
+print("The difference is ",num1-num2)
+print("The multiplication is ",num1*num2)
+print("The value after dividing num1 to num2 is ",num1/num2 )
+print("The remainder after dividing num1 to num2 is ",num1%num2)
